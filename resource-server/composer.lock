@@ -1706,6 +1706,23 @@
             "time": "2016-01-21T19:50:30+00:00"
         },
         {
+          "name": "paragonie/sodium_compat_ext_sodium",
+          "version": "v1.0.0",
+          "authors": [{
+            "name": "Paragon Initiative Enterprises",
+            "homepage": "https://paragonie.com",
+            "email": "security@paragonie.com"
+          }],
+          "license": "ISC",
+          "require": {
+            "paragonie/sodium_compat": "^1|^2"
+          },
+          "provide": {
+            "ext-libsodium": "*",
+            "ext-sodium": "*"
+          }
+        },
+        {
             "name": "web-token/jwt-framework",
             "version": "v3.3.0",
             "description": "JSON Object Signing and Encryption library for PHP and Symfony Bundle.",
