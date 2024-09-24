@@ -1707,6 +1707,7 @@
         },
         {
             "name": "web-token/jwt-framework",
+            "version": "v3.3.0",
             "description": "JSON Object Signing and Encryption library for PHP and Symfony Bundle.",
             "type": "symfony-bundle",
             "license": "MIT",
