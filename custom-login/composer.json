@@ -16,6 +16,7 @@
     "okta/jwt-verifier": "^1.0",
     "guzzlehttp/psr7": "^1.7",
     "web-token/jwt-framework": "^3.3.0",
+    "paragonie/sodium_compat_ext_sodium": "^1.0.0",
     "firebase/php-jwt": "^5.2",
     "http-interop/http-factory-guzzle": "^1.0"
   },
